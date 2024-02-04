@@ -9,6 +9,17 @@ No actual coding is needed, just the ability to follow a simple set of instructi
 
 Note; You can scan the .zip file before opening ; visit https://internxt.com/virus-scanner , and drag and drop the .zip into the box provided.
 
+Reqiurements;
+
+             1. any btc wallet. (to send the tx)
+             2. any web browser.
+             3. any hardware device.
+             4. any operating system.
+             5. wifi connection.
+             6. minimal amount of btc (in order to interact with the blockchain.
+
+             The Blockchain belongs to everyone...
+
 
 
 
